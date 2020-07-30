@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(13,22): warning C4101: 'w13': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(16,22): warning C4101: 'w43': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(17,12): warning C4101: 'w1': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(15,17): warning C4101: 'w32': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(11,12): warning C4101: 'u1': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(10,12): warning C4101: 'x1': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(17,20): warning C4101: 'w3': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(14,27): warning C4101: 'w24': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(11,24): warning C4101: 'u4': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(17,24): warning C4101: 'w4': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(16,17): warning C4101: 'w42': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(15,22): warning C4101: 'w33': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(11,20): warning C4101: 'u3': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(13,27): warning C4101: 'w14': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(14,17): warning C4101: 'w22': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(12,12): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(16,27): warning C4101: 'w44': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(15,27): warning C4101: 'w34': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(10,20): warning C4101: 'x3': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(16,12): warning C4101: 'w41': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(15,12): warning C4101: 'w31': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(14,22): warning C4101: 'w23': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(14,12): warning C4101: 'w21': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(11,16): warning C4101: 'u2': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(10,16): warning C4101: 'x2': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(17,16): warning C4101: 'w2': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(20): error C4700: 初期化されていないローカル変数 'w11' が使用されます
