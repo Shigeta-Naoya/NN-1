@@ -1,0 +1,6 @@
+﻿  func.cpp
+  main.cpp
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(12,12): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\Users\ゆい\Documents\ROUTE\NN\NN\main.cpp(11,12): warning C4101: 'u': ローカル変数は 1 度も使われていません。
+  コードを生成中...
+  NN.vcxproj -> C:\Users\ゆい\Documents\ROUTE\NN\Debug\NN.exe
